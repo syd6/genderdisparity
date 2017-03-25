@@ -1,0 +1,604 @@
+{
+	"_batch" : [
+		{
+			"_id" : {
+				"name" : "New York University - NY",
+				"collegeInfo" : [
+					{
+						"_id" : "193900",
+						"name" : "New York University",
+						"city" : "New York",
+						"state" : "NY",
+						"zip" : "10012-1091",
+						"loc" : {
+							"type" : "Point",
+							"coordinates" : [
+								-73.997264,
+								40.729452
+							]
+						},
+						"__v" : 0
+					}
+				]
+			},
+			"total" : 23,
+			"maleTotal" : 15,
+			"femaleTotal" : 8,
+			"maleAccepted" : 9,
+			"femaleAccepted" : 4,
+			"maleAttended" : 4,
+			"femaleAttended" : 1,
+			"attendedTotal" : 5
+		},
+		{
+			"_id" : {
+				"name" : "Temple University - PA",
+				"collegeInfo" : [
+					{
+						"_id" : "216339",
+						"name" : "Temple University",
+						"city" : "Philadelphia",
+						"state" : "PA",
+						"zip" : "19122-6096",
+						"loc" : {
+							"type" : "Point",
+							"coordinates" : [
+								-75.158267,
+								39.980943
+							]
+						},
+						"__v" : 0
+					}
+				]
+			},
+			"total" : 16,
+			"maleTotal" : 15,
+			"femaleTotal" : 1,
+			"maleAccepted" : 7,
+			"femaleAccepted" : 1,
+			"maleAttended" : 2,
+			"femaleAttended" : 0,
+			"attendedTotal" : 2
+		},
+		{
+			"_id" : {
+				"name" : "Ithaca College - NY",
+				"collegeInfo" : [
+					{
+						"_id" : "191968",
+						"name" : "Ithaca College",
+						"city" : "Ithaca",
+						"state" : "NY",
+						"zip" : "14850-7002",
+						"loc" : {
+							"type" : "Point",
+							"coordinates" : [
+								-76.495057,
+								42.42264
+							]
+						},
+						"__v" : 0
+					}
+				]
+			},
+			"total" : 9,
+			"maleTotal" : 4,
+			"femaleTotal" : 5,
+			"maleAccepted" : 3,
+			"femaleAccepted" : 3,
+			"maleAttended" : 2,
+			"femaleAttended" : 1,
+			"attendedTotal" : 3
+		},
+		{
+			"_id" : {
+				"name" : "Johns Hopkins University - MD",
+				"collegeInfo" : [
+					{
+						"_id" : "162928",
+						"name" : "Johns Hopkins University",
+						"city" : "Baltimore",
+						"state" : "MD",
+						"zip" : "21218-2688",
+						"loc" : {
+							"type" : "Point",
+							"coordinates" : [
+								-76.620799,
+								39.32838
+							]
+						},
+						"__v" : 0
+					}
+				]
+			},
+			"total" : 11,
+			"maleTotal" : 8,
+			"femaleTotal" : 3,
+			"maleAccepted" : 4,
+			"femaleAccepted" : 3,
+			"maleAttended" : 1,
+			"femaleAttended" : 0,
+			"attendedTotal" : 1
+		},
+		{
+			"_id" : {
+				"name" : "Rutgers University-New Brunswick - NJ",
+				"collegeInfo" : [
+					{
+						"_id" : "186380",
+						"name" : "Rutgers University-New Brunswick",
+						"city" : "New Brunswick",
+						"state" : "NJ",
+						"zip" : "08901-1281",
+						"loc" : {
+							"type" : "Point",
+							"coordinates" : [
+								-74.45051,
+								40.503796
+							]
+						},
+						"__v" : 0
+					}
+				]
+			},
+			"total" : 50,
+			"maleTotal" : 38,
+			"femaleTotal" : 12,
+			"maleAccepted" : 24,
+			"femaleAccepted" : 6,
+			"maleAttended" : 12,
+			"femaleAttended" : 1,
+			"attendedTotal" : 13
+		},
+		{
+			"_id" : {
+				"name" : "Purdue University-Calumet Campus - IN",
+				"collegeInfo" : [
+					{
+						"_id" : "152248",
+						"name" : "Purdue University-Calumet Campus",
+						"city" : "Hammond",
+						"state" : "IN",
+						"zip" : "46323-2094",
+						"loc" : {
+							"type" : "Point",
+							"coordinates" : [
+								-87.47376,
+								41.584742
+							]
+						},
+						"__v" : 0
+					}
+				]
+			},
+			"total" : 5,
+			"maleTotal" : 3,
+			"femaleTotal" : 2,
+			"maleAccepted" : 3,
+			"femaleAccepted" : 2,
+			"maleAttended" : 3,
+			"femaleAttended" : 2,
+			"attendedTotal" : 5
+		},
+		{
+			"_id" : {
+				"name" : "Rochester Institute of Technology - NY",
+				"collegeInfo" : [
+					{
+						"_id" : "195003",
+						"name" : "Rochester Institute of Technology",
+						"city" : "Rochester",
+						"state" : "NY",
+						"zip" : "14623-5603",
+						"loc" : {
+							"type" : "Point",
+							"coordinates" : [
+								-77.67521,
+								43.090325
+							]
+						},
+						"__v" : 0
+					}
+				]
+			},
+			"total" : 66,
+			"maleTotal" : 57,
+			"femaleTotal" : 9,
+			"maleAccepted" : 32,
+			"femaleAccepted" : 6,
+			"maleAttended" : 19,
+			"femaleAttended" : 2,
+			"attendedTotal" : 21
+		},
+		{
+			"_id" : {
+				"name" : "Columbia University in the City of New York - NY",
+				"collegeInfo" : [
+					{
+						"_id" : "190150",
+						"name" : "Columbia University in the City of New York",
+						"city" : "New York",
+						"state" : "NY",
+						"zip" : "10027",
+						"loc" : {
+							"type" : "Point",
+							"coordinates" : [
+								-73.961885,
+								40.808286
+							]
+						},
+						"__v" : 0
+					}
+				]
+			},
+			"total" : 21,
+			"maleTotal" : 14,
+			"femaleTotal" : 7,
+			"maleAccepted" : 4,
+			"femaleAccepted" : 6,
+			"maleAttended" : 1,
+			"femaleAttended" : 1,
+			"attendedTotal" : 2
+		},
+		{
+			"_id" : {
+				"name" : "Stony Brook University - NY",
+				"collegeInfo" : [
+					{
+						"_id" : "196097",
+						"name" : "Stony Brook University",
+						"city" : "Stony Brook",
+						"state" : "NY",
+						"zip" : "11794",
+						"loc" : {
+							"type" : "Point",
+							"coordinates" : [
+								-73.123595,
+								40.913138
+							]
+						},
+						"__v" : 0
+					}
+				]
+			},
+			"total" : 34,
+			"maleTotal" : 27,
+			"femaleTotal" : 7,
+			"maleAccepted" : 3,
+			"femaleAccepted" : 3,
+			"maleAttended" : 1,
+			"femaleAttended" : 0,
+			"attendedTotal" : 1
+		},
+		{
+			"_id" : {
+				"name" : "University of Maryland-College Park - MD",
+				"collegeInfo" : [
+					{
+						"_id" : "163286",
+						"name" : "University of Maryland-College Park",
+						"city" : "College Park",
+						"state" : "MD",
+						"zip" : "20742",
+						"loc" : {
+							"type" : "Point",
+							"coordinates" : [
+								-76.939704,
+								38.988607
+							]
+						},
+						"__v" : 0
+					}
+				]
+			},
+			"total" : 77,
+			"maleTotal" : 69,
+			"femaleTotal" : 8,
+			"maleAccepted" : 24,
+			"femaleAccepted" : 7,
+			"maleAttended" : 10,
+			"femaleAttended" : 0,
+			"attendedTotal" : 10
+		},
+		{
+			"_id" : {
+				"name" : "University of Pittsburgh-Pittsburgh Campus - PA",
+				"collegeInfo" : [
+					{
+						"_id" : "215293",
+						"name" : "University of Pittsburgh-Pittsburgh Campus",
+						"city" : "Pittsburgh",
+						"state" : "PA",
+						"zip" : "15260",
+						"loc" : {
+							"type" : "Point",
+							"coordinates" : [
+								-79.954692,
+								40.444502
+							]
+						},
+						"__v" : 0
+					}
+				]
+			},
+			"total" : 9,
+			"maleTotal" : 7,
+			"femaleTotal" : 2,
+			"maleAccepted" : 3,
+			"femaleAccepted" : 1,
+			"maleAttended" : 1,
+			"femaleAttended" : 0,
+			"attendedTotal" : 1
+		},
+		{
+			"_id" : {
+				"name" : "University of Illinois at Urbana-Champaign - IL",
+				"collegeInfo" : [
+					{
+						"_id" : "145637",
+						"name" : "University of Illinois at Urbana-Champaign",
+						"city" : "Champaign",
+						"state" : "IL",
+						"zip" : "61820-5711",
+						"loc" : {
+							"type" : "Point",
+							"coordinates" : [
+								-88.230309,
+								40.108864
+							]
+						},
+						"__v" : 0
+					}
+				]
+			},
+			"total" : 67,
+			"maleTotal" : 56,
+			"femaleTotal" : 11,
+			"maleAccepted" : 17,
+			"femaleAccepted" : 8,
+			"maleAttended" : 4,
+			"femaleAttended" : 4,
+			"attendedTotal" : 8
+		},
+		{
+			"_id" : {
+				"name" : "Carnegie Mellon University - PA",
+				"collegeInfo" : [
+					{
+						"_id" : "211440",
+						"name" : "Carnegie Mellon University",
+						"city" : "Pittsburgh",
+						"state" : "PA",
+						"zip" : "15213-3890",
+						"loc" : {
+							"type" : "Point",
+							"coordinates" : [
+								-79.942914,
+								40.444616
+							]
+						},
+						"__v" : 0
+					}
+				]
+			},
+			"total" : 21,
+			"maleTotal" : 12,
+			"femaleTotal" : 9,
+			"maleAccepted" : 9,
+			"femaleAccepted" : 7,
+			"maleAttended" : 1,
+			"femaleAttended" : 5,
+			"attendedTotal" : 6
+		},
+		{
+			"_id" : {
+				"name" : "Cornell University - NY",
+				"collegeInfo" : [
+					{
+						"_id" : "190415",
+						"name" : "Cornell University",
+						"city" : "Ithaca",
+						"state" : "NY",
+						"zip" : "14853",
+						"loc" : {
+							"type" : "Point",
+							"coordinates" : [
+								-76.48269,
+								42.445291
+							]
+						},
+						"__v" : 0
+					}
+				]
+			},
+			"total" : 585,
+			"maleTotal" : 359,
+			"femaleTotal" : 226,
+			"maleAccepted" : 257,
+			"femaleAccepted" : 175,
+			"maleAttended" : 168,
+			"femaleAttended" : 97,
+			"attendedTotal" : 265
+		},
+		{
+			"_id" : {
+				"name" : "SUNY at Binghamton - NY",
+				"collegeInfo" : [
+					{
+						"_id" : "196079",
+						"name" : "SUNY at Binghamton",
+						"city" : "Vestal",
+						"state" : "NY",
+						"zip" : "13850-6000",
+						"loc" : {
+							"type" : "Point",
+							"coordinates" : [
+								-75.971143,
+								42.088049
+							]
+						},
+						"__v" : 0
+					}
+				]
+			},
+			"total" : 59,
+			"maleTotal" : 49,
+			"femaleTotal" : 10,
+			"maleAccepted" : 26,
+			"femaleAccepted" : 4,
+			"maleAttended" : 22,
+			"femaleAttended" : 4,
+			"attendedTotal" : 26
+		},
+		{
+			"_id" : {
+				"name" : "University at Buffalo - NY",
+				"collegeInfo" : [
+					{
+						"_id" : "196088",
+						"name" : "University at Buffalo",
+						"city" : "Buffalo",
+						"state" : "NY",
+						"zip" : "14260-1660",
+						"loc" : {
+							"type" : "Point",
+							"coordinates" : [
+								-78.790103,
+								43.001433
+							]
+						},
+						"__v" : 0
+					}
+				]
+			},
+			"total" : 36,
+			"maleTotal" : 32,
+			"femaleTotal" : 4,
+			"maleAccepted" : 21,
+			"femaleAccepted" : 3,
+			"maleAttended" : 16,
+			"femaleAttended" : 0,
+			"attendedTotal" : 16
+		},
+		{
+			"_id" : {
+				"name" : "University of Pennsylvania - PA",
+				"collegeInfo" : [
+					{
+						"_id" : "215062",
+						"name" : "University of Pennsylvania",
+						"city" : "Philadelphia",
+						"state" : "PA",
+						"zip" : "19104-6303",
+						"loc" : {
+							"type" : "Point",
+							"coordinates" : [
+								-75.193618,
+								39.951002
+							]
+						},
+						"__v" : 0
+					}
+				]
+			},
+			"total" : 19,
+			"maleTotal" : 15,
+			"femaleTotal" : 4,
+			"maleAccepted" : 8,
+			"femaleAccepted" : 3,
+			"maleAttended" : 1,
+			"femaleAttended" : 1,
+			"attendedTotal" : 2
+		},
+		{
+			"_id" : {
+				"name" : "Princeton University - NJ",
+				"collegeInfo" : [
+					{
+						"_id" : "186131",
+						"name" : "Princeton University",
+						"city" : "Princeton",
+						"state" : "NJ",
+						"zip" : "08544-0070",
+						"loc" : {
+							"type" : "Point",
+							"coordinates" : [
+								-74.663708,
+								40.348496
+							]
+						},
+						"__v" : 0
+					}
+				]
+			},
+			"total" : 13,
+			"maleTotal" : 10,
+			"femaleTotal" : 3,
+			"maleAccepted" : 5,
+			"femaleAccepted" : 2,
+			"maleAttended" : 4,
+			"femaleAttended" : 0,
+			"attendedTotal" : 4
+		},
+		{
+			"_id" : {
+				"name" : "Purdue University-Main Campus - IN",
+				"collegeInfo" : [
+					{
+						"_id" : "243780",
+						"name" : "Purdue University-Main Campus",
+						"city" : "West Lafayette",
+						"state" : "IN",
+						"zip" : "47907-2040",
+						"loc" : {
+							"type" : "Point",
+							"coordinates" : [
+								-86.914435,
+								40.428206
+							]
+						},
+						"__v" : 0
+					}
+				]
+			},
+			"total" : 125,
+			"maleTotal" : 108,
+			"femaleTotal" : 17,
+			"maleAccepted" : 37,
+			"femaleAccepted" : 6,
+			"maleAttended" : 19,
+			"femaleAttended" : 3,
+			"attendedTotal" : 22
+		},
+		{
+			"_id" : {
+				"name" : "Brown University - RI",
+				"collegeInfo" : [
+					{
+						"_id" : "217156",
+						"name" : "Brown University",
+						"city" : "Providence",
+						"state" : "RI",
+						"zip" : "2912",
+						"loc" : {
+							"type" : "Point",
+							"coordinates" : [
+								-71.404467,
+								41.827605
+							]
+						},
+						"__v" : 0
+					}
+				]
+			},
+			"total" : 8,
+			"maleTotal" : 6,
+			"femaleTotal" : 2,
+			"maleAccepted" : 1,
+			"femaleAccepted" : 1,
+			"maleAttended" : 1,
+			"femaleAttended" : 0,
+			"attendedTotal" : 1
+		}
+	]
+}

@@ -1,0 +1,138 @@
+/* Our style customizations */
+#malebar{
+    float: left;
+    margin-left: 10%;
+}
+#femalebar{
+    float: right;
+    margin-right: 10%;
+}
+
+#main-title {
+    font-size: 350%;
+}
+
+.title{
+    font-family: 'Oswald', sans-serif;
+    font-size: 300%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.section{
+
+    text-align: left;
+    
+    margin-left: 0%;
+
+    text-align: center;
+}
+#normalize{
+    line-height: 1.5em;
+}
+.info {
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    text-align: justify;
+    line-height: 1.3em;
+    color: #585858;
+}
+
+.left {
+    margin-left: 0%;
+    margin-right: 40%;
+}
+
+.center {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+
+svg {
+    display: inline-block;
+    margin: auto;
+}
+
+
+#bar-graph-holder {
+    padding-bottom: 0px;
+}
+
+/* d3 annotation styles from https://github.com/susielu/d3-annotation/blob/master/d3-annotation.css */
+:root {
+    --annotation-color: #000;
+}
+
+.annotation path {
+    stroke: #9B9B9B;
+    fill: none;
+}
+
+.annotation text,
+.annotation .annotation-connector .connector-dot,
+.annotation path.connector-arrow,
+.annotation.callout.rect path.subject{
+    fill: var(--annotation-color);
+}
+
+.annotation-note-title {
+    font-weight: bold;
+}
+
+.annotation-note-bg {
+    fill: rgba(255, 255, 255, 0);
+}
+
+.annotation.callout.rect path.subject{
+    fill-opacity: .1;
+}
+
+.annotation.badge path.subject-pointer, .annotation.badge path.subject {
+    fill: var(--annotation-color);
+    stroke-width: 3px;
+    stroke-linecap: round;
+}
+
+.annotation.badge path.subject-ring {
+    fill: white;
+    stroke-width: 3px;
+}
+
+.annotation.badge .badge-text {
+    fill: white;
+    font-size: .7em;
+}
+
+/* Handling edit mode styles */
+.editable .annotation-subject, .editable .annotation-note {
+    cursor: move;
+}
+
+circle.handle {
+    stroke-dasharray: 5;
+    stroke: var(--annotation-color);
+    fill: rgba(255, 255, 255, .0);
+    cursor: move;
+
+    stroke-opacity: .0;
+}
+
+/* Style for Custom Tooltip */
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 60px;
+    height: 28px;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: white;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
+
+/* Legend Font Style */
+body {
+    font: 11px sans-serif;
+}
