@@ -65,7 +65,7 @@
     // D3 Projection
     var projection = d3.geoAlbersUsa()
         .translate([-width * .24, width * .52])    // translate to center of screen
-        .scale([4000]);                            // scale things down so see entire US
+        .scale([2500]);                            // scale things down so see entire US
 
     // Define path generator
     var path = d3.geoPath()                 // path generator that will convert GeoJSON to SVG paths
@@ -374,7 +374,7 @@
                 .call(makeAnnotations);
 
             var BAR_WIDTH = 200;
-            var BAR_MARGIN = 50;
+            var BAR_MARGIN = 90;
 
             // Sort data for bar graphs
             var barGraphData = data._batch;
