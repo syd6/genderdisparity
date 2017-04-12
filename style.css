@@ -68,6 +68,11 @@ svg {
     stroke: #9B9B9B;
     fill: none;
 }
+/* THIS IS NEW ******************
+*/
+.annotation-group { 
+    display: none;
+}
 
 .annotation text,
 .annotation .annotation-connector .connector-dot,
